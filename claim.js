@@ -49,7 +49,7 @@ async function runClaim() {
       const timeExecute = `At time ${timezone}`;
       console.log(timeExecute);
       appendLog(timeExecute);
-      const receiptTx = await doClaimDaily(PRIVATE_KEY);
+      const receiptTx = await doClaim(PRIVATE_KEY);
       if (receiptTx) {
         const successMessage = `Transaction Hash: ${explorer.tx(receiptTx)}`;
         console.log(successMessage.cyan);

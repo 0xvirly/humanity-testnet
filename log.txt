@@ -1,4 +1,1 @@
 Log Humanity Testnet
-At time 17:55:40 WIB 25-10-2024
-Error processing transaction. Please try again later.
-

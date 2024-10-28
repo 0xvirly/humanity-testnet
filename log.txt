@@ -1,17 +1,1 @@
 Log Humanity Testnet
-At time 17:58:53 WIB 25-10-2024
-Transaction Confirmed for claim Daily Reward in block 2129739
-Transaction Hash: https://explorer.testnet.humanity.org/tx/0x5329c5e76baff408bf5eb4bbb62b39cdc28945e3ed7cd0017bfcc5f8592b1de8
-
-At time 09:15:28 WIB 26-10-2024
-Transaction Confirmed for claim Daily Reward in block 2142084
-Transaction Hash: https://explorer.testnet.humanity.org/tx/0xa8be918b42829e86312e34e41fae100ffe939b350fb4404217d41f6c71aa1134
-
-At time 09:24:13 WIB 27-10-2024
-Transaction Confirmed for claim Daily Reward in block 2161661
-Transaction Hash: https://explorer.testnet.humanity.org/tx/0xa4a258702c4091f0008a2aac08e16fc4a3959206b0c3ab90e45dedb27bc84256
-
-At time 09:23:01 WIB 28-10-2024
-Transaction Confirmed for claim Daily Reward in block 2180086
-Transaction Hash: https://explorer.testnet.humanity.org/tx/0xfb666a82d657656d25e5895738e2e067ccd4ce436fb0fcc00ef7edfb530261b1
-

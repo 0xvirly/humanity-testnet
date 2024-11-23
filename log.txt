@@ -913,3 +913,36 @@ Transaction Hash: https://explorer.testnet.humanity.org/tx/0xe3b493cb3e0c49d8ac7
 Wallet Address 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 Successful for claim daily reward
 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xea01597944a2c566313b84d8f34120c09ba7a777ddc4e03113e90d11deb59529
 
+At time 09:20:37 WIB 23-11-2024
+Wallet Address 0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x75a53a8a11b86b79fc6ed80b6bc75cf779f83959d5b349cd00873c8073702085
+Wallet Address 0x90c9CE76132797f848713DB3cc373baa317E6Fd0 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x7e0d8fe028199af53a56b3c91f228d136788df83af97cb2c061ef079771a4ffc
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "RPC error response is: too many arguments, want at most 1" }, payload={ "id": 82, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0xb26a7d2ea69a3122a29b8c0a3fcbee36fc2eeef02f2460887e288e21105e3f27" ] }, code=UNKNOWN_ERROR, version=6.13.4)
+Wallet Address 0xa6D7989db5FC55A3749B056Be95C82E8E55e7A91 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xd205567629e837d2182d5bda92a6c3447a0be5fe9921189180fca1fea48fc22d
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "RPC error response is: too many arguments, want at most 1" }, payload={ "id": 131, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0x47262a739d399c339f92658d8cbbc1bb901e2f753a99dea8eb404ff58ba97e1d" ] }, code=UNKNOWN_ERROR, version=6.13.4)
+Wallet Address 0x8228806b2E6ab9Ac9bF4e07b6B0c5bc4A8F72576 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc57e796714f45922d54c6bb162f05160a97e69d7c96b4506fc9aefa4063bf3c3
+Wallet Address 0x617919A88c4131f4714b93375e10b5b806cA42b7 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xed756215dc1fd7db35e1fbb2f462b9b186a291fc9f21c64ae1f1eca7fe4634f4
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "RPC error response is: too many arguments, want at most 1" }, payload={ "id": 213, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0x42d2b87a8a2d253459655b62e5b60a47e6e5cd56fd0f2af5696b3cff5f0e60e1" ] }, code=UNKNOWN_ERROR, version=6.13.4)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "RPC error response is: too many arguments, want at most 1" }, payload={ "id": 231, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0x270a62b4fbe03a22e2253133920e40f7b36fd33c59a0e285e2c12c4f47ea4d7d" ] }, code=UNKNOWN_ERROR, version=6.13.4)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "RPC error response is: too many arguments, want at most 1" }, payload={ "id": 249, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0xae063eed67367dfda446ed52e7e5b21472ad1c5f71315bac774b7e6e162d0a39" ] }, code=UNKNOWN_ERROR, version=6.13.4)
+Wallet Address 0x59960893F377Dbd50d0adF387B224D76F8bF2F05 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xf389f78185717f25384cbf866010b5aca34427dec9949745db52b63d227b0521
+Wallet Address 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x544e6f5e885aee18f92c939ba41cc79c37ee96ca35eae7bb8f7e4104d6b715a8
+Wallet Address 0xE0e01474a05bB8105444e0220E5ad52c98589c77 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x5cd3545bae6febe77e863345cf035ccabfe8bcf546b60065e597137db0438d65
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "RPC error response is: too many arguments, want at most 1" }, payload={ "id": 365, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0xdfee56ba5c7ef183abf90f9e86faa10ef29ae320bc2c34b70696798bb61c2aa8" ] }, code=UNKNOWN_ERROR, version=6.13.4)
+Wallet Address 0x2AFD2f1947b657a7993c16bDa83c878a918E672F Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x3055319cd46966baeacb56319a8d009c786e415e3c3d62de759ec6c1baf352b2
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "RPC error response is: too many arguments, want at most 1" }, payload={ "id": 414, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0x8bc35cadfc8aa931d1183e124b128ef6edfeb288d9afce4fc455942410551b5e" ] }, code=UNKNOWN_ERROR, version=6.13.4)
+Wallet Address 0x232aac1ecf6eE6D3694c5099AB53DbA6c9B8cf90 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x3eed9d40a65ca1b0d2cb27e9a229580b4ef6e3656802c31f9cab84c1b5503c7c
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "RPC error response is: too many arguments, want at most 1" }, payload={ "id": 463, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0xc6cbaee77adde5a4fd1cc322a4f76c75f4f8e6ec21c50bc77af874561bce05ba" ] }, code=UNKNOWN_ERROR, version=6.13.4)
+Wallet Address 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xae3cba9a7f63bde442ddd690ae279888542fea974aaaa28a1986dddaadb79250
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "RPC error response is: too many arguments, want at most 1" }, payload={ "id": 514, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ "0xac42828d5b712b494f5cc436ec0d73dfb61dfca049e8d5407b6479e6ff9f8e10" ] }, code=UNKNOWN_ERROR, version=6.13.4)
+

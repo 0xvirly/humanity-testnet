@@ -1475,3 +1475,45 @@ Transaction Hash: https://explorer.testnet.humanity.org/tx/0x261406718b6f6026d22
 Wallet Address 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 Successful for claim daily reward
 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xead7ea3fbd48acf2dfcfa4c593178921fc8f62239630335205ed40c50192b076
 
+At time 09:26:14 WIB 07-12-2024
+Wallet Address 0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x4d7bcdc1781581d709b9ee7cd5c99cfd30b7a85516872a29bd46f36659064296
+Wallet Address 0x90c9CE76132797f848713DB3cc373baa317E6Fd0 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xe1ef4641ba275c6daca5d7375b1bbb03a1f8cd0fa118210eb58dc1cd0a1c0385
+Wallet Address 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xe26c0f4428d4c68ae904b27d19d13cd01da141e34cfac1089b25289cf121b303
+Wallet Address 0xa6D7989db5FC55A3749B056Be95C82E8E55e7A91 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x14ad550c872e63f787cd515cb91f96f32e32ac6975d4760ba1ceefe67ed9eb88
+Wallet Address 0xbe895c40F163117113659154051384DfFF501f11 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x71b9ade42e6c1e0bb339bc4d51f4638145207fc47b48397742fb2b8f9e58f109
+Wallet Address 0x8228806b2E6ab9Ac9bF4e07b6B0c5bc4A8F72576 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x877e846eab7fdc754179ffb652ccb443026de9f8bb4e11a8649b1216c5a096db
+Wallet Address 0x617919A88c4131f4714b93375e10b5b806cA42b7 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x107937a99f77a582bea9c3b9385f380925e9a6bd5021d3446d389d2393783acb
+Wallet Address 0x5f879D48CC3b7fDbc88025F8E2dAF61265Ea4099 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x9c905b42cbc75dc77c85699542a232b3ee13d5f73416e255de4bd94e55909109
+Wallet Address 0xD034f3621e7C3406dD8866a67564AaCC203D8904 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x9055edd80d96511949abbb1ccf0cce2ccc0e6449bddb8b70d56c249f97535dbd
+Wallet Address 0x41CB827A811d7BbFE4Cb14729D5Fa01bEe00e4CF Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc1c45825743760d345ff6221576a64494454fadf9c4814dbda6f3136e8e47775
+Wallet Address 0x59960893F377Dbd50d0adF387B224D76F8bF2F05 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x58d7a5268aac1dc510fc0de715fc99e4eb7fcf6bb4643df0914ac9e8792a4e29
+Wallet Address 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x3fbac5eca747ce28c52f8f248d9364801d901bc5e7681223143f52acb938e362
+Wallet Address 0xE0e01474a05bB8105444e0220E5ad52c98589c77 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x1d61e698e5585e9e31d5fa847fce59c84128bed17621d9f7940ad26649b41505
+Wallet Address 0xb9fe451fA5DdBf98e6Cd4E09778f6E80a8055A3B Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xa13061fe6ab8bbba8a1eaca857dd5c148845101dcc2490ecbfe6608525c00343
+Wallet Address 0x2AFD2f1947b657a7993c16bDa83c878a918E672F Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc311d44f3dc039be37dd05990f8297cc29cd6fff7ac2f8c2de8514bc3828f59c
+Wallet Address 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x18c0bb7589f15f52f5695a4a7e66dbc3948be20213dac55f45bd606afe1f7d74
+Wallet Address 0x232aac1ecf6eE6D3694c5099AB53DbA6c9B8cf90 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x6bbcf3a5a01f837c6245b72c3531c2a87c5a6e147d23198fdba2133b0bdf4681
+Wallet Address 0xc17e233b0a5E5b4C354901C90307038E92910f25 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xe748b53a76125ee1749385c61670edc81384b0e337b8cea2260e2166a7eeeb34
+Wallet Address 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xa7be7b6945bd0bd2d1603a9d8f03ecff793ae93bd874f8a8b24e28f904784132
+Wallet Address 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x16c2d87c7cb248a482a3dc0026fe2ad130aa3be4cd83220f65365139b098d62a
+

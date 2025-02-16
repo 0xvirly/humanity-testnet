@@ -44,7 +44,7 @@ jobs:
 
           if ! jq empty privateKeysHumanity.json >/dev/null 2>&1; then
             echo "⚠️ Invalid JSON detected! Replacing with an empty array."
-            echo "[]" > privateKeys.json
+            echo "[]" > privateKeysHumanity.json
           fi
 
       - name: Install Dependencies

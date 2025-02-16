@@ -43,3 +43,25 @@ Transaction Hash: https://explorer.testnet.humanity.org/tx/0xe5b61b0832d59fdacc0
 Wallet Address 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 Successful for claim daily reward
 Transaction Hash: https://explorer.testnet.humanity.org/tx/0xe042c298bd63c9982e6219cbc37fad7b26e6bbd20ff75a0f6d27220168f70dd7
 
+At time 09:22:09 WIB 16-02-2025
+Wallet Address 0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1 has been claimed daily reward.
+Wallet Address 0x90c9CE76132797f848713DB3cc373baa317E6Fd0 has been claimed daily reward.
+Wallet Address 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d has been claimed daily reward.
+Wallet Address 0xa6D7989db5FC55A3749B056Be95C82E8E55e7A91 has been claimed daily reward.
+Wallet Address 0xbe895c40F163117113659154051384DfFF501f11 has been claimed daily reward.
+Wallet Address 0x8228806b2E6ab9Ac9bF4e07b6B0c5bc4A8F72576 has been claimed daily reward.
+Wallet Address 0x617919A88c4131f4714b93375e10b5b806cA42b7 has been claimed daily reward.
+Wallet Address 0x5f879D48CC3b7fDbc88025F8E2dAF61265Ea4099 has been claimed daily reward.
+Wallet Address 0xD034f3621e7C3406dD8866a67564AaCC203D8904 has been claimed daily reward.
+Wallet Address 0x41CB827A811d7BbFE4Cb14729D5Fa01bEe00e4CF has been claimed daily reward.
+Wallet Address 0x59960893F377Dbd50d0adF387B224D76F8bF2F05 has been claimed daily reward.
+Wallet Address 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 has been claimed daily reward.
+Wallet Address 0xE0e01474a05bB8105444e0220E5ad52c98589c77 has been claimed daily reward.
+Wallet Address 0xb9fe451fA5DdBf98e6Cd4E09778f6E80a8055A3B has been claimed daily reward.
+Wallet Address 0x2AFD2f1947b657a7993c16bDa83c878a918E672F has been claimed daily reward.
+Wallet Address 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF has been claimed daily reward.
+Wallet Address 0x232aac1ecf6eE6D3694c5099AB53DbA6c9B8cf90 has been claimed daily reward.
+Wallet Address 0xc17e233b0a5E5b4C354901C90307038E92910f25 has been claimed daily reward.
+Wallet Address 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 has been claimed daily reward.
+Wallet Address 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 has been claimed daily reward.
+

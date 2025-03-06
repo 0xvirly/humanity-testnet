@@ -669,3 +669,38 @@ Transaction Hash: https://explorer.testnet.humanity.org/tx/0x1601c7986bd101159a3
 Wallet Address 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 Successful for claim daily reward
 Transaction Hash: https://explorer.testnet.humanity.org/tx/0x2c86bece0d2479b77731fa12ac91e6da31bf17955a296589a6337c028936fe95
 
+At time 09:22:18 WIB 06-03-2025
+Wallet Address 0x481d348FEC9Fc4C0eB0211a103A41D176209C4E1 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x03b635e1eb5ee31a656820f5b85c205dca23ce8f60577883c9fb75f3f0bc2176
+Wallet Address 0x90c9CE76132797f848713DB3cc373baa317E6Fd0 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x61cc3fca20c91f477f8c3569bb8ab661c624a9c0c2c6b03723c361652c3af6af
+Wallet Address 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xb2ebf2282e95f7f2c5863c3ab8e9b01693cde088b482eadb3fad8d4d1b02cbc1
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address" }, payload={ "id": 255, "jsonrpc": "2.0", "method": "eth_getTransactionCount", "params": [ "0xa6d7989db5fc55a3749b056be95c82e8e55e7a91", "pending" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address" }, payload={ "id": 266, "jsonrpc": "2.0", "method": "eth_sendRawTransaction", "params": [ "0xf86872808302fdf694a18f6fcb2fd4884436d10610e69db7bfa1bfe8c78084b88a802f84e79fa30da032599ec30dc41ad900870098a4f063427dc7b8b551ed0955806e7cabe09ffcaba0762223f9f3d137f624a14ef2a513a3654cbd4d5ed963c29b743658d81cf0a600" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address" }, payload={ "id": 277, "jsonrpc": "2.0", "method": "eth_sendRawTransaction", "params": [ "0xf8687c808302fdf694a18f6fcb2fd4884436d10610e69db7bfa1bfe8c78084b88a802f84e79fa30ea0bb60448fffd69a319f533ff4388c731e60501be1f95e3cf225f32e3cb68837c6a04fde9dd304145eb273e4773db513622546ad3ae3393b0c8237c5f6fce703c144" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address" }, payload={ "id": 288, "jsonrpc": "2.0", "method": "eth_sendRawTransaction", "params": [ "0xf8687a808302fdf694a18f6fcb2fd4884436d10610e69db7bfa1bfe8c78084b88a802f84e79fa30da013233a42e6f112f3a54b20aaad6faa8df46d2c94982264db7f5b8cd45b1cc3bda0646046d562b21cda1401f2644bbea49d17e2ebcf1b0872e61f19559d3d9db3b5" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address" }, payload={ "id": 290, "jsonrpc": "2.0", "method": "eth_getTransactionCount", "params": [ "0x5f879d48cc3b7fdbc88025f8e2daf61265ea4099", "pending" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address" }, payload={ "id": 306, "jsonrpc": "2.0", "method": "eth_getTransactionCount", "params": [ "0xd034f3621e7c3406dd8866a67564aacc203d8904", "latest" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Wallet Address 0x41CB827A811d7BbFE4Cb14729D5Fa01bEe00e4CF Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x520959348565f27563d76939b8ac5c194262a9ffe383ae9c58b8f29f2573020c
+Wallet Address 0x59960893F377Dbd50d0adF387B224D76F8bF2F05 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xc4f831d19be5cf66806404bf49be1884de308d62192d08f7aa9ec6383f723373
+Wallet Address 0xA25ebc6094A7e0B4bdB913196652b74cdEb784C6 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x5d1388626536e6be7baad707a0cc91c58e05c0d7246ba17126755fced699395b
+Wallet Address 0xE0e01474a05bB8105444e0220E5ad52c98589c77 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x1c4eaa46700495a8489ebeb44d65a2433b7c0ba0cfb9dcfcfd22ed2f9810fd80
+Wallet Address 0xb9fe451fA5DdBf98e6Cd4E09778f6E80a8055A3B Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x272e880c18ac73b51c8db560eadb0913d834dfe51552c159d79b75ce81a7f33b
+Wallet Address 0x2AFD2f1947b657a7993c16bDa83c878a918E672F Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x88128d585cf300a8e1d7585d3f58603fd664434fd46efc76ffef067a21c12679
+Wallet Address 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x1fd6cf683ea929e2c29caebdd020f02a305df5e2a010b90d5d46d672ddbe09a9
+Wallet Address 0x232aac1ecf6eE6D3694c5099AB53DbA6c9B8cf90 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0xd320a2d8a57db6907f69e4e7cb232aa6979a257e19925250ca54fadf7db56a75
+Error executing transaction: could not coalesce error (error={ "code": -32000, "message": "Post \"http://hp-testnet-sequencer-rpc.service.consul:8545\": dial tcp 10.57.96.154:8545: connect: cannot assign requested address" }, payload={ "id": 812, "jsonrpc": "2.0", "method": "eth_getTransactionCount", "params": [ "0xc17e233b0a5e5b4c354901c90307038e92910f25", "pending" ] }, code=UNKNOWN_ERROR, version=6.13.5)
+Wallet Address 0x7c8673379ABCC4e2d5446D2Fc0f8b2d9CBAedDc0 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x8e7533fcc6c3a20a7bef96d20050387575f64bf1301347ae8ea94dae4bb10f19
+Wallet Address 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 Successful for claim daily reward
+Transaction Hash: https://explorer.testnet.humanity.org/tx/0x686326fd9bea5b37f4a02869115a6fba31d869b2e9848f310831016b1b238efa
+
